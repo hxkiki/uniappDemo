@@ -1,0 +1,4 @@
+#Fri Dec 25 15:22:58 CST 2020
+base.0=C\:\\geek\\appdemo\\Android-SDK@2.9.8.80513_20201111\\UniPlugin-Hello-AS\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
